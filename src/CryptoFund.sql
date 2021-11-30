@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.27, for Win64 (x86_64)
 --
--- Host: 127.0.0.1    Database: cryptomanager
+-- Host: 127.0.0.1    Database: cryptofund
 -- ------------------------------------------------------
 -- Server version	8.0.27
 
@@ -18,9 +18,9 @@
 --
 -- Table structure for table `moneda`
 --
-DROP DATABASE if EXISTS `cryptomanager`;
-CREATE DATABASE `cryptomanager`;
-USE `cryptomanager`;
+DROP DATABASE if EXISTS `cryptofund`;
+CREATE DATABASE `cryptofund`;
+USE `cryptofund`;
 DROP TABLE IF EXISTS `moneda`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
